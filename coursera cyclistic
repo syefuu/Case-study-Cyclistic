@@ -2,13 +2,13 @@
  "cells": [
   {
    "cell_type": "markdown",
-   "id": "d7bc522d",
+   "id": "401f6679",
    "metadata": {
     "papermill": {
-     "duration": 0.00229,
-     "end_time": "2025-08-28T23:36:43.098620",
+     "duration": 0.002235,
+     "end_time": "2025-08-28T23:44:16.800039",
      "exception": false,
-     "start_time": "2025-08-28T23:36:43.096330",
+     "start_time": "2025-08-28T23:44:16.797804",
      "status": "completed"
     },
     "tags": []
@@ -399,6 +399,8 @@
     "\n",
     "https://www.canva.com/design/DAGw_GESHy8/oPsyoyKQD6dELPLBSaK-YA/edit?utm_content=DAGw_GESHy8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)\n",
     "\n",
+    "This link contain the final HTML report made in RStudio : https://github.com/syefuu/Case-study-Cyclistic\n",
+    "\n",
     "Thank you for reading <br>\n",
     "\n",
     "Seifallah Raach <br>\n"
@@ -434,14 +436,14 @@
   },
   "papermill": {
    "default_parameters": {},
-   "duration": 8.112846,
-   "end_time": "2025-08-28T23:36:43.520445",
+   "duration": 6.901969,
+   "end_time": "2025-08-28T23:44:17.222786",
    "environment_variables": {},
    "exception": null,
    "input_path": "__notebook__.ipynb",
    "output_path": "__notebook__.ipynb",
    "parameters": {},
-   "start_time": "2025-08-28T23:36:35.407599",
+   "start_time": "2025-08-28T23:44:10.320817",
    "version": "2.6.0"
   }
  },
