@@ -2,13 +2,13 @@
  "cells": [
   {
    "cell_type": "markdown",
-   "id": "9832faa3",
+   "id": "d7bc522d",
    "metadata": {
     "papermill": {
-     "duration": 0.002273,
-     "end_time": "2025-08-28T23:29:43.943538",
+     "duration": 0.00229,
+     "end_time": "2025-08-28T23:36:43.098620",
      "exception": false,
-     "start_time": "2025-08-28T23:29:43.941265",
+     "start_time": "2025-08-28T23:36:43.096330",
      "status": "completed"
     },
     "tags": []
@@ -353,11 +353,14 @@
     "\n",
     "These are the dashboards i made :\n",
     "\n",
-    "_ Bike type overview : members vs casuals : See the riders activity based on the type of bikes (https://public.tableau.com/app/profile/seifallah.raach/viz/Biketypeoverviewmembersvscasuals/biketypeoverview) \n",
-    "_ Seasonal approach : See the riders activity by seasons.(https://public.tableau.com/app/profile/seifallah.raach/viz/Seasonalapproach/seasonalapproach?publish=yes) \n",
-    "_ Weekends vs weekdays : See the difference in activity between the weekends and weekdays by the rider type.  (https://public.tableau.com/app/profile/seifallah.raach/viz/WeekendsvsWeekdays/Weekdaysvsweekends?publish=yes)  \n",
+    "_ Bike type overview : members vs casuals : See the riders activity based on the type of bikes (https://public.tableau.com/app/profile/seifallah.raach/viz/Biketypeoverviewmembersvscasuals/biketypeoverview) <br>\n",
+    "\n",
+    "_ Seasonal approach : See the riders activity by seasons.(https://public.tableau.com/app/profile/seifallah.raach/viz/Seasonalapproach/seasonalapproach?publish=yes) <br>\n",
+    "\n",
+    "_ Weekends vs weekdays : See the difference in activity between the weekends and weekdays by the rider type.  (https://public.tableau.com/app/profile/seifallah.raach/viz/WeekendsvsWeekdays/Weekdaysvsweekends?publish=yes)  <br>\n",
+    "\n",
     "_ Riders activity : See the stations where we have the most traffic between casual riders and members.\n",
-    "(https://public.tableau.com/app/profile/seifallah.raach/viz/Ridersactivity/stationsapproach?publish=yes) \n",
+    "(https://public.tableau.com/app/profile/seifallah.raach/viz/Ridersactivity/stationsapproach?publish=yes) <br>\n",
     "\n",
     "## Data analysis \n",
     "\n",
@@ -396,8 +399,9 @@
     "\n",
     "https://www.canva.com/design/DAGw_GESHy8/oPsyoyKQD6dELPLBSaK-YA/edit?utm_content=DAGw_GESHy8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)\n",
     "\n",
-    "Thank you for reading\n",
-    "Seifallah Raach\n"
+    "Thank you for reading <br>\n",
+    "\n",
+    "Seifallah Raach <br>\n"
    ]
   }
  ],
@@ -430,14 +434,14 @@
   },
   "papermill": {
    "default_parameters": {},
-   "duration": 8.862178,
-   "end_time": "2025-08-28T23:29:46.842453",
+   "duration": 8.112846,
+   "end_time": "2025-08-28T23:36:43.520445",
    "environment_variables": {},
    "exception": null,
    "input_path": "__notebook__.ipynb",
    "output_path": "__notebook__.ipynb",
    "parameters": {},
-   "start_time": "2025-08-28T23:29:37.980275",
+   "start_time": "2025-08-28T23:36:35.407599",
    "version": "2.6.0"
   }
  },
